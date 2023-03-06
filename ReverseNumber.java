@@ -1,3 +1,5 @@
+package frequentlyaskedjavaprogram;
+
 import java.util.Scanner;
 
 
