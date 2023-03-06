@@ -1,11 +1,15 @@
+package frequentlyaskedjavaprogram;
+
 import java.util.Scanner;
 
 public class ReverseString {
+	
+	static Scanner sc;
 
 	public static void main(String[] args) {
 		
-		Scanner sc;
-		String rev= "";
+		
+		//String rev= "";
 		
 		sc = new Scanner(System.in);
 		 
@@ -14,7 +18,7 @@ public class ReverseString {
 		
 		//Using for Loop and Concatenation
 		
-		int length = input.length();
+		//int length = input.length();
 		
 		/*for(int i=length-1;i>=0;i--) {
 			
